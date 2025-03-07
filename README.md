@@ -9,7 +9,7 @@ Software engineering is a systematic approach to designing, developing, testing,
 Its role in the technology industry is to provide structured methodologies to design and build high-quality software products/systems that meet both users' and businesses' requirements.
 
 
-Identify and describe at least three key milestones in the evolution of software engineering.
+Identify and describe at least three key milestones in the evolution of software engineering. 
 1. The "Software Crisis" and the Birth of Software Engineering (1968)
 At the NATO Software Engineering Conference (Germany, 1968), experts discussed the "software crisis"—a growing problem of software bugs, delays, and cost overruns.
 Edsger Dijkstra criticized unstructured coding, leading to the promotion of structured programming to improve reliability. This crisis prompted the formalization of software engineering as a discipline.
@@ -17,7 +17,7 @@ Edsger Dijkstra criticized unstructured coding, leading to the promotion of stru
 Bjarne Stroustrup developed C++ (1983), bringing Object-Oriented Programming (OOP) to mainstream software development. OOP introduced key principles: encapsulation, inheritance, and polymorphism, making software reusable and scalable. Later languages like Java (1995) and Python (1991) built on OOP principles.
 3. Cloud Computing & DevOps – AWS (2006) and CI/CD
 Amazon Web Services (AWS, 2006) introduced cloud computing, changing how software was deployed. Companies moved from on-premise infrastructure to cloud platforms like AWS, Google Cloud, and Microsoft Azure. The DevOps movement (2010s) integrated development and operations, with Continuous Integration/Continuous Deployment (CI/CD) pipelines automating software delivery.
-
+(ChatGPT).
 
 List and briefly explain the phases of the Software Development Life Cycle.
 1. Requirement analysis- gathering and defining system and user requirements.
