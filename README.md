@@ -29,7 +29,7 @@ List and briefly explain the phases of the Software Development Life Cycle.
 7. Maintenance- regularly performing updates and fixes.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
-The waterfall methodology is a sequential approach where each phase/step is completed first before moving to the next while agile methodology is an iterative and flexible approach that relies on incremental development and frequent feedback from stakeholders. Waterfall methodology works best for projects with well-defined requirements such as government systems. Agile methodology is suitable for dynamic projects such as mobile and web app development.
+The waterfall methodology is a step by step approach where each phase/step is completed first before moving to the next while agile methodology is an iterative and flexible approach that relies on incremental development and frequent feedback from stakeholders and customers. Waterfall methodology works best for projects with well-defined requirements such as government systems and banking systems, for example. Agile methodology is suitable for dynamic projects such as mobile and web app development.
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
@@ -39,13 +39,13 @@ Project manager- handles project timelines, scope, resources and communication w
 
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, testing, and packaging in an easy-to-use application. Some of them include Visual Studio Code and IntelliJ IDEA. Version Control Systems enable collaboration and code tracking. Some examples are Git and GitHub.
+An integrated development environment (IDE) is a software application that helps programmers develop software code efficiently. It increases developer productivity by combining capabilities such as software editing, building, debugging and testing in an easy-to-use application. Some of them include Visual Studio Code and IntelliJ IDEA. Version Control Systems enable collaboration and code tracking. Some examples are Git and GitHub.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 1. Balancing workloads and deadlines. Can be solved by using project management tools such as Trello and maintaining realistic expectations with stakeholders.
 2. Poor communication in teams. Can be solved by regular SCRUM meetings and using collaboration tools such as Slack for better teamwork.
 3. Keeping up with new technologies. Can be solved by doing online courses and networking at workshops to be up to date.
-4. Managing technical debt. Can be solved by prioritizing long-term maintainability over quick fixes.
+4. Managing technical debt. Can be solved by prioritizing long-term maintainability over quick fixes. (ChatGPT)
 
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
